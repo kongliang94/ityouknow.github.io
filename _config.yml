@@ -7,9 +7,9 @@
 
 # Site settings
 title:  Konastin的技术博客
-subtitle: 畅游技术
+subtitle: 遨游于天际
 name: Konastin 
-email: ityouknow@126.com
+email: kongliang94@gmail.com
 description: 本站是Konastin的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: Konastin,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
